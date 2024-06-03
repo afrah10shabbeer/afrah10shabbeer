@@ -14,7 +14,7 @@ So, what's in my coding saddlebag? Well, I've got C, C++, Python, JavaScript, My
 - 😄 Pronouns: She/Her
 - 📫 How to reach me
     - 📩: afrahshabbeer@gmail.com
-    - Connect with me on: ![image](https://www.linkedin.com/in/afrah-shabbeer-961981145/)
+    - Connect with me on: ![LinkedIn-Logo](https://github.com/afrah10shabbeer/afrah10shabbeer/assets/50787871/9f323976-f4af-43f4-b8c3-7eb6d3d1b72a)
 
   
     
