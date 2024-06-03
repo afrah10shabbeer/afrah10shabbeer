@@ -9,17 +9,26 @@ Now, let me brag a bit - I've slain over a thousand coding dragons on platforms 
 Oh, and did I mention my stint as a Machine Learning maven at a startup in Hyderabad? I danced with Python, NumPy, Pandas, Scikit-learn, and TensorFlow.
 
 So, what's in my coding saddlebag? Well, I've got C, C++, Python, JavaScript, MySQL, MongoDB, Node.js, Express.js, Django, FastAPI, and a trusty sidekick called Data Structures and Algorithms. And when I'm not coding, you can find me lighting up the coding arena at coding showdowns on platforms like CodeChef, LeetCode, and HackerRank. Yeehaw! 🤠✨
+
+- 🌱 I’m currently learning Cracking the coding interview Book by Gayle Laakmann McDowell, A go-to resource filled with strategies and practice questions to help individuals ace technical interviews in the tech industry.
+- 😄 Pronouns: She/Her
+- 📫 How to reach me
+    - 📩: afrahshabbeer@gmail.com
+    - Connect with me on: ![image](https://www.linkedin.com/in/afrah-shabbeer-961981145/)
+
+  
+    
 <!--
 **afrah10shabbeer/afrah10shabbeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+
+- 
 - ⚡ Fun fact: ...
 -->
