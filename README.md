@@ -1,5 +1,14 @@
-## Hi there 👋
+## Hello there 👋 I'm Afrah
 
+I'm a 2023 master's grad from JNTU Hyderabad, but my coding adventures started way back when I was just about to dive into B.Tech at Jayamukhi Institute of Technological Sciences Narsampet. Picture this: it's summer break, and instead of chilling at home, I'm at a nearby coaching center. My mind is blown as my teacher effortlessly conjures up a program to add two numbers. It's like watching magic unfold! And that's when my love affair with coding began.
+
+Fast forward to college, and guess what? My campus was like a desert when it came to coding culture. But did that stop me? Nope! I became a coding trailblazer, starting with C, then venturing into C++ territory to tame those Data Structures and Algorithms.
+
+Now, let me brag a bit - I've slain over a thousand coding dragons on platforms like LeetCode, HackerRank, and CodeChef. Currently, I'm wrangling code as a software engineer at D3V Technology Solutions. But before that, I was a digital nomad, freelancing at a training institute. Python, Django, FastAPI - you name it, I've wrangled it!
+
+Oh, and did I mention my stint as a Machine Learning maven at a startup in Hyderabad? I danced with Python, NumPy, Pandas, Scikit-learn, and TensorFlow like a pro!
+
+So, what's in my coding saddlebag? Well, I've got C, C++, Python, JavaScript, MySQL, MongoDB, Node.js, Express.js, Django, FastAPI, and a trusty sidekick called Data Structures and Algorithms. And when I'm not coding, you can find me lighting up the coding arena at coding showdowns on platforms like CodeChef, LeetCode, and HackerRank. Yeehaw! 🤠✨
 <!--
 **afrah10shabbeer/afrah10shabbeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
