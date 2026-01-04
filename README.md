@@ -1,9 +1,9 @@
 <h1 align="center">Hello there 👋, I'm Afrah</h1>
 
 <p style="text-align: justify;">
-I graduated with a master’s in 2023 from JNTU Hyderabad, but my coding journey actually began back in 2017, right after finishing class 11 and 12 at Jayamukhi Institute of Technological Sciences. I still remember that summer when a teacher wrote a simple program to add two numbers—it felt like magic, and I was instantly hooked.
+I graduated with a master’s in 2023 from JNTU Hyderabad, but my coding journey actually began back in 2017, right after finishing class 11 and 12 at Jayamukhi Institute of Technological Sciences. I still remember that summer when a teacher wrote a simple program to add two numbers, it felt like magic, and I was instantly hooked.
 
-College didn’t have much of a coding culture, and I was the only one who took the initiative to dive into coding — I became the sole coder in my entire college. I taught myself C, then moved on to C++, and dove deep into Data Structures and Algorithms. Over the years, I’ve solved hundreds of problems on platforms like LeetCode, HackerRank, and CodeChef.
+College had very little coding culture, and I was the only student who took the initiative to explore programming, effectively becoming the sole coder in my entire college. I began by teaching myself C, progressed to C++, and developed a strong foundation in Data Structures and Algorithms. Over the years, I have solved hundreds of problems on platforms such as LeetCode, HackerRank, and CodeChef.
 
 Today, I’m a software developer at Nasdaq, one of the leading fintech companies.
 </p>
