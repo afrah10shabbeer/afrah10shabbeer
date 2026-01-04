@@ -20,7 +20,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<h3 align="left">Languages and Tools:</h3>
 <div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
   <!-- C -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
@@ -63,6 +62,3 @@
        alt="MS SQL" width="40" height="40"/>
 </div>
 
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=afrah10shabbeer&show_icons=true&locale=en&layout=compact" alt="afrah10shabbeer" /></p>
