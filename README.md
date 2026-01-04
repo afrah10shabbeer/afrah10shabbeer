@@ -20,45 +20,72 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
+<p align="left">
   <!-- C -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-       alt="C" width="40" height="40"/>
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+         alt="C" width="40" height="40"/>
+  </a>
 
   <!-- C++ -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-       alt="C++" width="40" height="40"/>
+  <a href="https://www.w3schools.com/cpp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+         alt="C++" width="40" height="40"/>
+  </a>
 
   <!-- Java -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-       alt="Java" width="40" height="40"/>
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+         alt="Java" width="40" height="40"/>
+  </a>
 
   <!-- Python (Basic) -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-       alt="Python" width="40" height="40"/>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+         alt="Python" width="40" height="40"/>
+  </a>
 
   <!-- C# -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-       alt="C#" width="40" height="40"/>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
+         alt="C#" width="40" height="40"/>
+  </a>
 
   <!-- JavaScript -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-       alt="JavaScript" width="40" height="40"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+         alt="JavaScript" width="40" height="40"/>
+  </a>
 
   <!-- React -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-       alt="React" width="40" height="40"/>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+         alt="React" width="40" height="40"/>
+  </a>
 
   <!-- HTML -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-       alt="HTML5" width="40" height="40"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+         alt="HTML5" width="40" height="40"/>
+  </a>
 
   <!-- CSS -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-       alt="CSS3" width="40" height="40"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+         alt="CSS3" width="40" height="40"/>
+  </a>
 
   <!-- MS SQL -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
-       alt="MS SQL" width="40" height="40"/>
-</div>
+  <a href="https://learn.microsoft.com/en-us/sql/sql-server/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
+         alt="MS SQL" width="40" height="40"/>
+  </a>
+
+  <!-- Data Structures & Algorithms -->
+  <a href="https://www.geeksforgeeks.org/data-structures/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Data_structure.svg"
+         alt="DSA" width="40" height="40"/>
+  </a>
+</p>
+
 
