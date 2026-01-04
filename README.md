@@ -75,16 +75,15 @@
          alt="CSS3" width="40" height="40"/>
   </a>
 
-  <!-- MS SQL -->
-  <a href="https://learn.microsoft.com/en-us/sql/sql-server/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
-         alt="MS SQL" width="40" height="40"/>
+  <!-- MySQL -->
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+         alt="MySQL" width="40" height="40"/>
   </a>
-
+  
   <!-- Data Structures & Algorithms -->
   <a href="https://www.geeksforgeeks.org/data-structures/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Data_structure.svg"
-         alt="DSA" width="40" height="40"/>
+    <h3>Data Structures & Algorithms</h3>
   </a>
 </p>
 
