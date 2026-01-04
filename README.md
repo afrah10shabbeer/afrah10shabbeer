@@ -1,5 +1,13 @@
 <h1 align="center">Hello there 👋, I'm Afrah</h1>
-<p text-align="justify">I'm a 2023 master's grad from JNTU Hyderabad, but my coding adventures started way back when I was just about to dive into B.Tech at Jayamukhi Institute of Technological Sciences Narsampet. Picture this: it's summer break, and instead of chilling at home, I'm at a nearby coaching center. My mind is blown as my teacher effortlessly conjures up a program to add two numbers. It's like watching magic unfold! And that's when my love affair with coding began. Fast forward to college, and guess what? My campus was like a desert when it came to coding culture. But did that stop me? Nope! I became a coding trailblazer, starting with C, then venturing into C++ territory to tame those Data Structures and Algorithms. Now, let me brag a bit - I've slain over a thousand coding dragons on platforms like LeetCode, HackerRank, and CodeChef. Currently, I'm wrangling code as a software engineer at D3V Technology Solutions. But before that, I was a digital nomad, freelancing at a training institute. Python, Django, FastAPI. Oh, and did I mention my stint as a Machine Learning maven at a startup in Hyderabad? I danced with Python, NumPy, Pandas, Scikit-learn, and TensorFlow. So, what's in my coding saddlebag? Well, I've got C, C++, Python, JavaScript, MySQL, MongoDB, Node.js, Express.js, Django, FastAPI, and a trusty sidekick called Data Structures and Algorithms. And when I'm not coding, you can find me lighting up the coding arena at coding showdowns on platforms like CodeChef, LeetCode, and HackerRank. Yeehaw!</p>
+
+<p style="text-align: justify;">
+I graduated with a master’s in 2023 from JNTU Hyderabad, but my coding journey actually began back in 2017, right after finishing class 11 and 12 at Jayamukhi Institute of Technological Sciences. I still remember that summer when a teacher wrote a simple program to add two numbers—it felt like magic, and I was instantly hooked.
+
+College didn’t have much of a coding culture, and I was the only one who took the initiative to dive into coding — I became the sole coder in my entire college. I taught myself C, then moved on to C++, and dove deep into Data Structures and Algorithms. Over the years, I’ve solved hundreds of problems on platforms like LeetCode, HackerRank, and CodeChef.
+
+Today, I’m a software developer at Nasdaq, one of the leading fintech companies.
+</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afrah10shabbeer&label=Profile%20views&color=0e75b6&style=flat" alt="afrah10shabbeer" /> </p>
 
