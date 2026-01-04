@@ -20,8 +20,8 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-
+<h3 align="left">Languages and Tools:</h3>
+<div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
   <!-- C -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
        alt="C" width="40" height="40"/>
@@ -50,11 +50,19 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
        alt="React" width="40" height="40"/>
 
+  <!-- HTML -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+       alt="HTML5" width="40" height="40"/>
+
+  <!-- CSS -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+       alt="CSS3" width="40" height="40"/>
+
   <!-- MS SQL -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
        alt="MS SQL" width="40" height="40"/>
+</div>
 
-</p>
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=afrah10shabbeer&show_icons=true&locale=en&layout=compact" alt="afrah10shabbeer" /></p>
