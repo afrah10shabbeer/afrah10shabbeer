@@ -82,9 +82,7 @@
   </a>
   
   <!-- Data Structures & Algorithms -->
-  <a href="https://www.geeksforgeeks.org/data-structures/" target="_blank">
-    <h3>Data Structures & Algorithms</h3>
-  </a>
+  <h5>Data Structures & Algorithms</h5>
 </p>
 
 
